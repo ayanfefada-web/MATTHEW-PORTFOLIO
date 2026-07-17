@@ -9,7 +9,7 @@ This repository showcases a set of independent Power BI dashboards covering empl
 1. Employee Attrition Analysis — Executive Summary
 
 A narrative write-up of the attrition dashboard below, translating the numbers into three business stories: Premium Talent Drain (the company is losing experienced mid-tier staff, not entry-level employees, concentrated in the $60k–$150k salary range), Critical R&D and Marketing Vulnerability (Marketing and Engineering post above-average attrition, with R&D carrying the largest overall share), and Demographic and Geographic Friction Points (attrition skews male and disproportionately affects Black and Asian employees, with China as the highest-attrition country). Each story comes with its own recommended actions — stay interviews, salary-structure reviews, leadership assessments, and DEI initiatives.
-![Attrition Analysis Executive Summary](images/ATTRITION_ANALYSIS_EXECUTIVE_SUMMARY.jpg)
+
 ---
 
 2. Attrition Rate Analysis — Page 1
